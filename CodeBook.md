@@ -31,6 +31,7 @@ Some general rules for the data described here instead of repeated for every col
 - Accelerometer denotes a measurement taken by the accelerometer
 - Gyroscope denotes a measurement taken by the gyroscope
  
+ 
 - row.names - row names in form  ActivityLabelAndSubject
 - time_BodyAccelerometer_std()_X -	Standard deviation for acceleration of body in X direction
 - time_BodyAccelerometer_std()_Y -	Standard deviation for acceleration of body in Y direction
