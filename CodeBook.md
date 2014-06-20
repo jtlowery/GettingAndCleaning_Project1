@@ -21,7 +21,7 @@ worn by subjects on their waists'.
 
 #Description of Variables and Data
 
-Some general rules for the data described here instead of repeated for every column:
+##Some general rules for the data described here instead of repeated for every column:
 - Time in a column name denotes a time domain signal
 - Frequency in a column name denotes frequency domain signal
 - Values have been normalized so that they are between 1 and -1 for columns 1-66
@@ -32,6 +32,7 @@ Some general rules for the data described here instead of repeated for every col
 - Gyroscope denotes a measurement taken by the gyroscope
  
  
+ ##Columns
 - row.names - row names in form  ActivityLabelAndSubject
 - time_BodyAccelerometer_std()_X -	Standard deviation for acceleration of body in X direction
 - time_BodyAccelerometer_std()_Y -	Standard deviation for acceleration of body in Y direction
